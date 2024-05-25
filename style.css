@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    /* background-color: black;
+    color: aliceblue; */
+    /* margin: 2%; */
+}
+#main_div {
+    padding: 15% 0% 0% 0%;
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    background: linear-gradient(90deg in oklab, rgb(121, 121, 234), rgb(224, 112, 112));
+  }
+
